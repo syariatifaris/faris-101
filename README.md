@@ -68,7 +68,7 @@ There are at least 4 dimensions that my team under me / my direct reports need t
 
 To measure how our influence, action, and contribution affect the company business, growth, culture, and sustainability. This dimension also relate to the employee commitment to deliver values to customers in day to day basis.
 
-### B. Technical Advancement & Maturity
+### B. Technical Skills & Maturity
 
 To keep our bar high and to ensure the best piece of software are being shipped, engineering quality is meant to be improved continously. Embracing best practices and being pragmatic are two piece of advise that I often share to my team.
 
