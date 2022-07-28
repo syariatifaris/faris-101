@@ -6,25 +6,25 @@ This document is created so you are able to get a high level view and idea about
 
 ## I. About Me
 
-If you are familiar with MBTI Test, I am the [INFJ-T](https://www.16personalities.com/infj-personality) person. I would recommend you to check on how person with this kind of personality works in general, and if you have your own MBTI test result, feel free to share with me. Or if you don’t feel free to take the test [here](https://www.16personalities.com/). 
+If you are familiar with MBTI Test, I am the [INFJ-T](https://www.16personalities.com/infj-personality) person. I would recommend you to check on how a person with this kind of personality works in general, and if you have your own MBTI test result, feel free to share with me. Or if you don’t feel free to take the test [here](https://www.16personalities.com/). 
 
 ## II. Interaction
 
-Feel free to call me by my nick name (Faris) or by adding a prefix such as ‘mas’ or ‘pak’ if you feel more comfortable with it. 
+I choose my words carefully during a discussion, and tend to be more diplomatic rather than a casual speaker. Nevertheless, it doesn't limit us to have a good long term engagement.  
 
-Drop me a question anytime. In case that I am not be able to give a prompt response, I will set an ETA for it, or set a follow up discussion so we can have a further.  
+I love helping and assiting people. Feel free to ask me anything or drop me a question anytime. In case that I am not be able to give a prompt response, I will set an ETA for it, or set a follow up discussion so we can have a further.  
 
 ## III. Personal Values
 
-My personal values explain the code of ethics that I personally embrace in my day to day bases at work. 
+My personal values explain regarding the code of ethics that I personally embrace: 
 
 ### A. Integrity
 
-To assert an integrity, I often ask myself a question about a certain situation, and to check if the self generated answer is according to the fact in real world situation. This will keep us being objective and honest with a certain condition. 
+To assert an integrity, I often ask myself a question about a certain situation. Therefores, I will check whether my answer match with fact that the other people see. This will keep myself being honest and highly objective. 
 
 ### B. Accountability
 
-Take a full responsibility on what we do, propose, assign, and nominate. To get your hands dirty and to embrace the consequences of ones actions. 
+Take full responsibility on what we do, propose, assign, and nominate. To get your hands dirty, and to embrace the consequences of ones actions. 
 
 ### C. Fairness
 
@@ -40,7 +40,7 @@ I personally eager to have my team to be autonomous, cohesive, and aligned with 
 
 ### A. 1 on 1
 
-As my direct report I will expect you to ask me to setup a frequent 1 x 1 session weekly or biweekly. You will get an opportunity to ask my assistance / guidance, and to let me know how I can help your work. Within this 1 x 1, we can share some feedback each other more frequently. 
+As my direct report, you are expected to setup weekly or biweekly 1 x 1 (one-on-one) session with me. You will get an opportunity to ask my assistance / guidance, and to let me know how I can help your work. Within this 1 x 1, we can share some feedback each other more frequently. 
 
 If you are a team lead / manager, I often set a regular (but not too frequent) skip level 1 x 1 with your direct reports to get some insight and feedback regarding to myself or the department / division under me.
 
@@ -78,4 +78,4 @@ In most cases, I would suggest to limit my meeting duration for about 15 - 60 mi
 
 Per June 2020, I am no longer living in Jakarta due to COVID 19 situation. For a tentative period of time, I am residing in a region which require 2 hours travel time to Jakarta.
 
- If you need to meet me offline, I would like to suggest to inform you several days before so I can plan for the off-site meeting including the travel plan, and location (if its outside the office).
+If you need to meet me offline, I would like to suggest to inform you several days before so I can plan for the off-site meeting including the travel plan, and location (if its outside the office).
